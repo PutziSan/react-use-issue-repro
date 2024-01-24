@@ -1,0 +1,19 @@
+{
+  "name": "react-use-issue-repro",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "0.0.0-experimental-e1d20fc0c-20240122",
+    "react-dom": "0.0.0-experimental-e1d20fc0c-20240122"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.8"
+  }
+}
